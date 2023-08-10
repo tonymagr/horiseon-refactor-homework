@@ -1,29 +1,31 @@
 # Horiseon Web Accessibility
 
+## README Author
+Tony Magrady - Berkeley Full-Stack Web Development Bootcamp student, August 10, 2023
+
 ## Description
+As stated in the module 1 challenge assignment, the purpose of "Horiseon Web Accessibility" website, as I have named it, is:
+Web accessibility is an increasingly important consideration for businesses. It ensures that people with disabilities can access a website using assistive technologies such as video captions, screen readers, and braille keyboards. Making a website accessible is also good for business for many reasons, one of them being that accessible sites are better positioned in search engines like Google. It also helps companies avoid litigation that can occur when people with disabilities can't access their website.
+Ref: https://courses.bootcampspot.com/courses/4001/assignments/59529
 
-- Horiseon Web Accessibility
+## Website Image
+![The Horiseon Web Accessibility webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./assets/images/01-html-css-git-homework-demo.png) 
 
-- Horiseon Web Accessibility was developed to 
-
-- Challenges, observations, GIF, UI / UX comments.
-
-![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./assets/images/brand-awareness.png) 
+## Challenges
+I was not familiar with the custom style sheet (CSS) notation for inherited attributes from parents and how those child elements must also be accounted for when refactoring code. My Berkeley Bootcamp tutor, Dennis Itua, showed me how this works, and moreover, guided me to areas in my code that require such refactoring.
 
 ## Installation
-
 N/A
 
 ## Usage
-
-- Horiseon Web Accessibility is organized as 
+Web page is currently informational, but the code is designed openly, such that SEO, Online Reputation, and Social Media Marketing tiles may navigate elsewhere in the same website or externally.
 
 ## Credits
-
-N/A
+Ref: https://courses.bootcampspot.com/courses/4001/assignments/59529
+Refactored by README Author
+Assisted by Berkeley Bootcamp-assigned tutor, Dennis Itua
 
 ## License
-
 MIT License
 
 Copyright (c) 2023 Tony Magrady
